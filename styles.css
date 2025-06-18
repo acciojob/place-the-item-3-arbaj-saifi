@@ -2,8 +2,15 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
-	flex-direction:row;
 	flex-wrap:wrap;
 	justify-content:space-between;
+	
+}
+.item{
+	width: 150px;
+	background-color:green;
+	text-align:center;
+	padding: 10px;
+	margin-bottom:10px;
 	
 }
